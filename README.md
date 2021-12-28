@@ -1,6 +1,6 @@
 # weather-API
 
-https://github.com/ellisaissa/weather-API
+
 https://ellisaissa.github.io/weather-API/
 
 AS A traveler
